@@ -1,4 +1,4 @@
-# Stanford-university-courses
+# Stanford-university (cs231n)
 
 * ### Idea: ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/repository_images/idea.png)
     * Dig deeper into convolutional neural networks (CNN)
