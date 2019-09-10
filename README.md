@@ -38,7 +38,7 @@
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment1/svm_weight_visualization.png)
    * 2 layer NN training process  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment1/two_layer_NN_training.png)
-  * ### Assignment 2
+ * ### Assignment 2
    * NN training with different optimizers  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment2/FC_NN_training_with_different_optimizers.png)
    * Model sensitivity with Batch normalization  
@@ -49,14 +49,14 @@
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment2/model_accuracy_with_Dropout.png)
    * CNN filters visualization
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment2/CNN_filter_visualization.png)
-  * ### Assignment 3
-   * Training image RNN
+ * ### Assignment 3
+   * Training image RNN  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment3/training_image_RNN.png)
-   * Training image LSTM
+   * Training image LSTM  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment3/training_image_LSTMs.png)
-   * Style transfer
+   * Style transfer  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment3/style_transfer.png)
-   * GANs output
+   * GANs output  
    ![](https://github.com/Antanskas/Computer-vision-cs231n-Stanford-university-/blob/master/plots/assignment3/GANs.png)
   
   
